@@ -41,6 +41,7 @@ Have fun playing.
     <figure>
         <img width="30%" src="https://user-images.githubusercontent.com/124134355/218975471-403bde06-10aa-48eb-94cd-f0d3c43e59d0.png">
         <figcaption>
+            </br>
             Picture when we sucess
         </figcaption>
     </figure>
